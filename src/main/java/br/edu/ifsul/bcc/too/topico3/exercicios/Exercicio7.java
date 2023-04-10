@@ -58,6 +58,7 @@ public class Exercicio7 {
     
       private void exer73(){
           //naaaao aahhh sexo gozei
+          //faz essa porra aqui teu merda
           
       }
     
