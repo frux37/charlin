@@ -24,10 +24,10 @@ public class ConversoesDatas {
     
     ConversoesDatas(){
         
-        //testesInicializacao();
-        //  testesImpressao();
-        //  testesConversao();
-            testesComparacao();        
+        testesInicializacao();
+        //testesImpressao();
+        //testesConversao();
+        //testesComparacao();        
     }
     
     private void testesComparacao(){
